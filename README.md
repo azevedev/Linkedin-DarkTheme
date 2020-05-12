@@ -1,2 +1,2 @@
 # ColorFull-ChromeExtension
-A chrome extension to controll colors on the browser in order to help colorblind folks or just stylize your browser.
+A chrome extension to controll colors on the browser trying to create a dark theme everywhere.
